@@ -1,6 +1,6 @@
 # Phone_laptop_desktop_classifier
 
-### I created the Ojject classifier for laptop, desktop, phone, and keypad_phone with 99% accuracy.            
+### I created the classifier for laptop, desktop, phone, and keypad_phone with 99% accuracy.            
 
 ### I created the labeled dataset for my model by using selenium and webcraping
 
